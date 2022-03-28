@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá! Seja bem vindo(a) ao meu Github! 👋  
 
-👨‍💻 Sou um desenvolvedor android trabalhando remotamente 🚀
+👨‍💻 Sou um desenvolvedor android trabalhando iniciante remotamente 🚀
 
 🔭 Aqui você encontrará repositórios de estudos sobre Android (majoritariamente com Kotlin).  
 
