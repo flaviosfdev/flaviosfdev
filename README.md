@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻 Meu nome é Flávio e sou um desenvolvedor android iniciante trabalhando remotamente 🚀
 
-🔭 Aqui você encontrará repositórios de estudos sobre Android (majoritariamente com Kotlin).  
+🔭 Aqui você encontrará repositórios de estudos sobre Android e Kotlin.  
 
 ## Github Stats  
 <div>
