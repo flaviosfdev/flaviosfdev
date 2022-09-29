@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 <h2> Conhecimentos </h2>
   
 [![Kotlin](https://img.shields.io/badge/Kotlin-2ea44f)](https://)
-<!-- [![Java](https://img.shields.io/badge/Java-2ea44f)](https://) -->
 [![MVVM](https://img.shields.io/badge/MVVM-2ea44f)](https://)
-<!-- [![MVP](https://img.shields.io/badge/MVP-2ea44f)](https://) -->
 [![Retrofit](https://img.shields.io/badge/Retrofit-2ea44f)](https://)
 [![Kodein](https://img.shields.io/badge/Kodein-2ea44f)](https://)
 [![Coroutines](https://img.shields.io/badge/Coroutines-2ea44f)](https://)
 [![Room](https://img.shields.io/badge/Room-2ea44f)](https://)
 [![SQLite](https://img.shields.io/badge/SQLite-2ea44f)](https://)
 [![Firebase](https://img.shields.io/badge/Firebase-2ea44f)](https://)
+<!-- [![Java](https://img.shields.io/badge/Java-2ea44f)](https://) -->
 <!-- [![Koin](https://img.shields.io/badge/Koin-2ea44f)](https://) -->
+<!-- [![MVP](https://img.shields.io/badge/MVP-2ea44f)](https://) -->
    
 </div>
 
