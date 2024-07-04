@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Seja bem vindo(a) ao meu Github! 👋  
+<!-- ## Olá! Seja bem vindo(a) ao meu Github! 👋  -->
 
 <!-- 👨‍💻 Meu nome é Flávio e sou um desenvolvedor android iniciante trabalhando remotamente 🚀
 
@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviosfdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosfdev&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-
-
+    
 <div>
-<h2> Conhecimentos </h2>
+<!-- <h2> Conhecimentos </h2> -->
   
 [![Kotlin](https://img.shields.io/badge/Kotlin-2ea44f)](https://)
 [![MVVM](https://img.shields.io/badge/MVVM-2ea44f)](https://)
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Kotlin" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg">
 </div> -->
  
-## Contate-me  
+<!-- ## Contate-me  -->
 <a href="https://linkedin.com/in/flaviosferreira" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
